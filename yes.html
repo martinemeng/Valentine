@@ -7,12 +7,23 @@
     <body>
         <div class="container">
             <div >
-                <h1 class = "header_text">Yippie!!! </h1>
+                <h1 class = "header_text">Yippie!! now, open your gift </h1>
             </div>
             <div class="gif_container">
                 <img src="./style/images/dachs-star.gif" alt="Happy dachs animation">
             </div>
             <p class = "text"> See you soon!</p>
+        </div>
+
+
+        <div class = "buttons">
+            <button class="btn" id = "openGift" onclick="nextPage()">Open</button>
+            <script>
+                function nextPage() {
+                    window.location.href = "gift.html";
+                }
+                
+            </script> 
         </div>
        
     </body> 
