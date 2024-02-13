@@ -1,3 +1,4 @@
-# Valentines
+# Valentines 2024
 
-Den som ler sist, ler til slutt
+For å se resultatet<3 
+(https://martinemeng.github.io/Valentine/)
